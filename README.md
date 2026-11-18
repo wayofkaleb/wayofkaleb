@@ -1,4 +1,4 @@
-# Packet Arcade
+# Midnight Packet
 
 Cybersecurity student keeping a lab notebook for defensive tools and game-server telemetry.
 
