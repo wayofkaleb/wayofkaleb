@@ -1,9 +1,9 @@
 # Midnight Packet
 
-Cybersecurity student keeping a lab notebook for defensive tools and game-server telemetry.
+Hey, I'm studying cybersecurity. Midnight Packet is my little lab for defensive tools and notes on what I'm learning.
 
 ## On the workbench
 
-**Lobby Watch** turns fictional game-server login logs into a timeline of failed sign-ins. I'm using it to see how window size and alert thresholds change what gets flagged for review.
+**Lobby Watch** takes fictional game-server login logs and shows when failed sign-ins pile up. I use it to see what gets flagged when I change the time window or the number of failures the rule looks for.
 
-[Live demo](https://wayofkaleb.github.io/lobby-watch/) · [Lobby Watch source](https://github.com/wayofkaleb/lobby-watch) · [Field notes](https://github.com/wayofkaleb/lobby-watch#field-notes)
+[Live demo](https://wayofkaleb.github.io/lobby-watch/) · [Lobby Watch source](https://github.com/wayofkaleb/lobby-watch) · [Lab notes](https://github.com/wayofkaleb/lobby-watch#field-notes)
